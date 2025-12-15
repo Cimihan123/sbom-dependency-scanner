@@ -1,8 +1,8 @@
-
 # requirements:
 
 - gh
 - jq
+- Change this to your organization name or github username: `export ORG=""`
 
 # run:
 
